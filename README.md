@@ -10,4 +10,4 @@ The project was developed collaboratively by [Giorgia Roselli](https://github.co
 - **Data Preprocessing and Training**: Includes scripts for cleaning and preparing the input data, as well as training deep learning models with custom hyperparameters.
 - **Performance Evaluation**: Implements various metrics (e.g., MAE, RMSE, correlation scores) and techniques (e.g., cross-validation) to assess model effectiveness.
 
-Feel free to explore the repository to learn more about the implementation details and to experiment with different configurations of the models. Contributions and feedback are welcome!
+Feel free to explore the repository to learn more about the implementation details.
